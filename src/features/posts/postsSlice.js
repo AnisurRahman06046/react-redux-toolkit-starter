@@ -19,3 +19,5 @@ export const postSlice = createSlice({
   initialState,
   reducers: {},
 });
+
+export default postSlice.reducer;
