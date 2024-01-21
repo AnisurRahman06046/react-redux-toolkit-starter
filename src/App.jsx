@@ -1,16 +1,9 @@
-
-
-
-import Counter from './features/counter/Counter.jsx'
-
 function App() {
-  
-
   return (
     <>
-<Counter></Counter>
+      <h1>hello</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
